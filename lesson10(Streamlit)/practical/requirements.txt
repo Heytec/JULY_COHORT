@@ -1,0 +1,7 @@
+numpy==1.19.4
+numpy-financial==1.0.0
+pandas==1.1.4
+plotly==4.13.0
+streamlit==0.71.0
+altair
+bokeh
